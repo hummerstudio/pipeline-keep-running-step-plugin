@@ -1,0 +1,15 @@
+Running InjectedTest for io.jenkins.plugins:pipeline-keep-running-step:999999-SNAPSHOT
+   0.227 [id=1]	INFO	o.jvnet.hudson.test.WarExploder#explode: Picking up existing exploded jenkins.war at /Users/tangming/Codes/pkr-step/target/jenkins-for-test
+   0.832 [id=1]	INFO	o.jvnet.hudson.test.JenkinsRule#createWebServer2: Running on http://localhost:56384/jenkins/
+   1.041 [id=1]	INFO	jenkins.model.Jenkins#<init>: Starting version 2.568.3
+   1.208 [id=48]	INFO	jenkins.InitReactorRunner$1#onAttained: Started initialization
+   2.270 [id=55]	INFO	jenkins.InitReactorRunner$1#onAttained: Listed all plugins
+   2.294 [id=61]	INFO	j.b.api.BouncyCastlePlugin#start: /Users/tangming/Codes/pkr-step/target/tmp/j h11858128141431534485/plugins/bouncycastle-api/WEB-INF/optional-lib not found; for non RealJenkinsRule this is fine and can be ignored.
+   3.788 [id=56]	INFO	jenkins.InitReactorRunner$1#onAttained: Prepared all plugins
+   3.800 [id=57]	INFO	jenkins.InitReactorRunner$1#onAttained: Started all plugins
+   3.801 [id=47]	INFO	jenkins.InitReactorRunner$1#onAttained: Augmented all extensions
+   5.880 [id=52]	INFO	jenkins.InitReactorRunner$1#onAttained: System config loaded
+   5.881 [id=52]	INFO	jenkins.InitReactorRunner$1#onAttained: System config adapted
+   5.882 [id=48]	INFO	jenkins.InitReactorRunner$1#onAttained: Loaded all jobs
+   5.883 [id=48]	INFO	jenkins.InitReactorRunner$1#onAttained: Configuration for all jobs updated
+   6.067 [id=55]	INFO	jenkins.InitReactorRunner$1#onAttained: Completed initialization

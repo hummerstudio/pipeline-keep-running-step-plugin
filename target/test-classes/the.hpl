@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Artifact-Id: pipeline-keep-running-step
+Short-Name: pipeline-keep-running-step
+Long-Name: Pipeline Keep Running Step
+Url: https://github.com/jenkinsci/pipeline-keep-running-step-plugin
+Plugin-Version: 999999-SNAPSHOT (private-513adfcf-tangming)
+Hudson-Version: 2.568.3
+Jenkins-Version: 2.568.3
+Plugin-Dependencies: workflow-step-api:724.v538c2362b_dfb_,structs:362.v
+ a_b_695ef4fdf9
+Plugin-Developers: Tang Ming:hummerstudio:
+Plugin-License-Name: MIT License
+Plugin-License-Url: https://opensource.org/license/mit/
+Plugin-ScmConnection: scm:git:https://github.com/jenkinsci/pipeline-keep
+ -running-step-plugin.git
+Plugin-ScmTag: HEAD
+Plugin-ScmUrl: https://github.com/jenkinsci/pipeline-keep-running-step-p
+ lugin
+Implementation-Build: 513adfcf4527b895846d94fadaba68903ca547df
+Libraries: /Users/tangming/Codes/pkr-step/src/main/resources,/Users/tang
+ ming/Codes/pkr-step/target/classes
+Resource-Path: /Users/tangming/Codes/pkr-step/src/main/webapp
+

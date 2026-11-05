@@ -1,0 +1,8 @@
+META-INF/annotations/hudson.Extension.txt
+com/shanyshanb/plugins/pipeline/steps/KeepRunningStepExecution.class
+com/shanyshanb/plugins/pipeline/steps/KeepRunningStep.class
+com/shanyshanb/plugins/pipeline/steps/KeepRunningStep$DescriptorImpl.class
+META-INF/annotations/hudson.Extension
+META-INF/services/annotations/org.kohsuke.accmod.Restricted
+com/shanyshanb/plugins/pipeline/steps/KeepRunningStep.stapler
+com/shanyshanb/plugins/pipeline/steps/Messages.class
